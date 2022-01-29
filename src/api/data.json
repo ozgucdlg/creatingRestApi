@@ -1,0 +1,55 @@
+{
+    "movies" :
+    
+    [
+    {
+        "id": 1,
+        "Title": "Scarface",
+        "Theme": "Politic",
+        "Rank": 9.5
+    },
+    {
+        "id": 2,
+        "Title": "Titanic",
+        "Theme": "Love",
+        "Rank": 9.8
+    },
+    {
+        "id": 3,
+        "Title": "Batman",
+        "Theme": "Sci-fiction",
+        "Rank": 9
+    },
+    {
+        "id": 4,
+        "Title": "SpiderMan",
+        "Theme": "Action",
+        "Rank": 9.3
+    },
+    {
+        "id": 5,
+        "Title": "Harry pater Series",
+        "Theme": "Advanture",
+        "Rank": 9.9
+    },
+    {
+        "id": 6,
+        "Title": "The Lord Of the Rings",
+        "Theme": "Adventure",
+        "Rank": 9.7
+    },
+    {
+        "id": 7,
+        "Title": "Iam Legend",
+        "Theme": "Sci-Fiction",
+        "Rank": 9.5
+    },
+    {
+        "id": 8,
+        "Title": "Jumanjhi",
+        "Theme": "Tension",
+        "Rank": 9.8
+    }
+]
+
+}
